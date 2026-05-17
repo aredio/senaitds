@@ -30,7 +30,7 @@ elif (opcao == 4):
     resultado = num1+num2
     print("Resultado da Multiplicação: ",resultado)
 else:
-    print("Resultado: Reprovado")    # Se não for nenhuma das opções acima (ou seja, menor que 5), entra aqui
+    print("Resultado: Reprovado")    # Se não for nenhuma das opções acima (ou seja, não for 1, 2, 3 ou 4), entra aqui
    
 
 
